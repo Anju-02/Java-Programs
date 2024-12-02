@@ -3,7 +3,7 @@ This repository contains Java programming assignments designed to strengthen und
 
 ## Assignments Overview
 # 1. Polymorphism with Shape Interface
-- Description: Implements polymorphism by defining a `Shape` interface with methods to calculate the area and perimeter. Classes like `Circle` and `Triangle` implement the interface.
+- Description: Implements polymorphism by defining a Shape interface with methods to calculate the area and perimeter. Classes like Circle and Triangle implement the interface.
 - Key Concepts: Polymorphism, Interfaces, OOP.
 
 # 2. Invoking Parent Class Constructor
