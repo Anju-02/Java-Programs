@@ -40,9 +40,9 @@ This repository contains Java programming assignments designed to strengthen und
 
 
 # Key Concepts Covered
-Object-Oriented Programming (OOP): Inheritance, Polymorphism, Encapsulation.
-Error Handling: Exception Handling with Try-Catch Blocks.
-Multithreading: Creating and managing threads.
-Data Structures: Using Lists and Arrays.
-Database Connectivity: Connecting Java applications to MySQL using JDBC.
-Algorithms: Binary Search.
+- Object-Oriented Programming (OOP): Inheritance, Polymorphism, Encapsulation.
+- Error Handling: Exception Handling with Try-Catch Blocks.
+- Multithreading: Creating and managing threads.
+- Data Structures: Using Lists and Arrays.
+- Database Connectivity: Connecting Java applications to MySQL using JDBC.
+- Algorithms: Binary Search.
